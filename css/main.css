@@ -54,6 +54,7 @@ h1 {
   font-family: sans-serif;
   color: white;
 }
+
 .main{
   background: rgb(144,238,149);
   padding: 50px 100px;
@@ -61,5 +62,13 @@ h1 {
   color:white;
   font-family: sans-serif;
   text-align: center;
+}
 
+.footer{
+  background: slategray;
+  padding: 50px;
+  font-size: 32px;
+  font-family: sans-serif;
+  color: white;
+  text-align: center;
 }
